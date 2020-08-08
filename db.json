@@ -1,0 +1,28 @@
+{
+    "datacustomer": [
+        {
+          "idCustomer": 1,
+          "namaCustomer": "test",
+          "alamatCustomer": "permata",
+          "phoneCustomer": "08344123",
+          "qtyCustomer": 12,
+          "sizeOrderCustomer": "A"
+        },
+        {
+          "idCustomer": 2,
+          "namaCustomer": "coba",
+          "alamatCustomer": "villa",
+          "phoneCustomer": "08344123",
+          "qtyCustomer": 13,
+          "sizeOrderCustomer": "C"
+        },
+        {
+          "idCustomer": 3,
+          "namaCustomer": "sri",
+          "alamatCustomer": "taman",
+          "phoneCustomer": "08344123",
+          "qtyCustomer": 13,
+          "sizeOrderCustomer": "D"
+        }
+      ]
+}
